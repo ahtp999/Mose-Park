@@ -1,4 +1,6 @@
 Chapter 1
+
+
 The operators are +, -, *, and /. The values are 'hello', -88.8, and 5.
 
 The variable is spam; the string is 'spam'. Strings always start and end with quotes.
@@ -19,7 +21,12 @@ The int(), float(), and str() functions will evaluate to the integer, floating-p
 
 The expression causes an error because 99 is an integer, and only strings can be concatenated to other strings with the + operator. The correct way is I have eaten ' + str(99) + ' burritos.'.
 
+
+
+
 Chapter 2
+
+
 True and False, using capital T and F, with the rest of the word in lowercase
 
 and, or, and not
