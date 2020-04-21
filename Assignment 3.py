@@ -9,5 +9,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 	
 >>> hello()
-JH
+JS
 >>> 
