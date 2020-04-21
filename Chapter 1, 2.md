@@ -1,4 +1,4 @@
-Chapter 1
+#Chapter 1
 
 
 The operators are +, -, *, and /. The values are 'hello', -88.8, and 5.
@@ -24,7 +24,7 @@ The expression causes an error because 99 is an integer, and only strings can be
 
 
 
-Chapter 2
+#Chapter 2
 
 
 True and False, using capital T and F, with the rest of the word in lowercase
